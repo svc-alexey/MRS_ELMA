@@ -121,6 +121,8 @@
 			<InformationRegister>MRS_ПроцессыELMA</InformationRegister>
 			<InformationRegister>ПЛ_ДополнительныеКонстанты</InformationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
+			<ScheduledJob>MRS_ОтправкаСтатусовЗаказовПоставщикуЕЛМА</ScheduledJob>
+			<EventSubscription>MRS_ПТУПоставитьСтатусЗаказаПоставщикуЕЛМАВОчередьПриЗаписи</EventSubscription>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
