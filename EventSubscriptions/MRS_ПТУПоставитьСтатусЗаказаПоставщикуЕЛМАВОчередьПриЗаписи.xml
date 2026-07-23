@@ -11,7 +11,7 @@
 			</Synonym>
 			<Comment/>
 			<Source>
-				<v8:Type xmlns:d5p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d5p1:DocumentRef.ПриобретениеТоваровУслуг</v8:Type>
+				<v8:Type xmlns:d5p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d5p1:DocumentObject.ПриобретениеТоваровУслуг</v8:Type>
 			</Source>
 			<Event>Write</Event>
 			<Handler>CommonModule.ПЛ_ПодпискиНаСобытия.приобретениеТоваровУслугПоставитьСтатусЗаказаПоставщикуЕЛМАВОчередьПриЗаписи</Handler>
